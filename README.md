@@ -3,7 +3,7 @@
 <div align="center">
 <div align="center">
 
-![AI EduConnect](educonnect.jpg)
+![AI EduConnect]logo192.png)
 
 </div>
 
