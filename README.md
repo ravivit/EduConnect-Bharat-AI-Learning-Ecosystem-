@@ -7,9 +7,7 @@
 
 </div>
 
-## 📖 About The Project
 
-![Platform Overview](educonnect.jpg)
 
 AI EduConnect is an innovative AI-powered education platform transforming learning across India...
 ![AI EduConnect](https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge&logo=ai)
