@@ -1,7 +1,17 @@
 # 🚀 AI EduConnect - Smart Learning Platform
 
 <div align="center">
+<div align="center">
 
+![AI EduConnect](educonnect.jpg)
+
+</div>
+
+## 📖 About The Project
+
+![Platform Overview](educonnect.jpg)
+
+AI EduConnect is an innovative AI-powered education platform transforming learning across India...
 ![AI EduConnect](https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge&logo=ai)
 ![PWA](https://img.shields.io/badge/PWA-Ready-green?style=for-the-badge&logo=pwa)
 ![EdTech](https://img.shields.io/badge/EdTech-Platform-orange?style=for-the-badge&logo=google-scholar)
