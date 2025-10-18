@@ -7,6 +7,7 @@
 ![EdTech](https://img.shields.io/badge/EdTech-Platform-orange?style=for-the-badge&logo=google-scholar)
 
 **AI-Powered Education Platform Connecting Students Across India**
+apple-touch-icon.png
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge&logo=netlify)](https://educonnectbharat.netlify.app)
 [![GitHub](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername/ai-educonnect)
